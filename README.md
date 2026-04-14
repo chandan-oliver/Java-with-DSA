@@ -1,2 +1,2 @@
 # Java-with-DSA
-Basic to Hard Leval DSA questions
+Basic to Advance Leval DSA questions
