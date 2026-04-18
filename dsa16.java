@@ -6,7 +6,7 @@ public class dsa16 {
         Scanner sc=new Scanner(System.in);
         String f_name=sc.nextLine();
         String l_name=sc.nextLine();
-        String full_name=f_name +" "+l_name; 
+        String full_name=f_name +" "+l_name;
 
         return full_name;
     }
